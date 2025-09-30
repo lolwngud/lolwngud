@@ -20,7 +20,7 @@
 
 ---
 
-## 🧩 What I Do / 관심 분야
+## 🧩 What I Do
 - **Embedded SW**: C, MCU/보드 bring-up, 기본 드라이버(입출력, 타이머 등)
 - **Linux**: 빌드·툴체인 사용, 쉘 스크립팅, Git 워크플로
 - **Algorithms**: C로 문제 해결 패턴 정리 및 습관화
@@ -28,14 +28,14 @@
 
 ---
 
-## 🛠 Tech Stack (편하게 쓰는 것)
+## 🛠 Tech Stack
 - **Language**: C (± C++), Python(툴링)
 - **OS & Tools**: Linux, VS Code, Git/GitHub, PyCharm
 - **HW/Interface**: Raspberry Pi, Arduino, 기본 센서/모듈
 
 ---
 
-## 📌 Highlighted Projects (요약)
+## 📌 Highlighted Projects
 > 추후 GitHub ‘Pinned’에 고정 예정. 지금은 간단 소개만.
 
 - **프로그래머스 C 풀이 기록** — 문제 풀이/회고, 빌드 태스크 자동화  
@@ -54,7 +54,7 @@
 
 ---
 
-## 🗂 Repo Guide (빠른 길잡이)
+## 🗂 Repo Guide
 - `Programmers-C`: 알고리즘 풀이/정리  
 - 앞으로 올릴 프로젝트: 로봇 공정 자동화 / 임베디드 미니 프로젝트 / 실습 템플릿 등
 
