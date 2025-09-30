@@ -61,8 +61,7 @@
 
 ---
 
-## 📫 Contact
-- 이슈나 PR로 대화 환영: <https://github.com/lolwngud>  
+## 📫 Contact 
 - 이메일: `juhy.dev@gmail.com`
 
 ---
