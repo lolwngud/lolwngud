@@ -38,7 +38,7 @@
 ## 📌 Highlighted Projects
 > 추후 GitHub ‘Pinned’에 고정 예정. 지금은 간단 소개만.
 
-- **시각장애인 내비게이션(졸업프로젝트)** — Raspberry Pi + GPS, 실시간 위치/경로 안내
+- **시각장애인 내비게이션(졸업프로젝트)** — Raspberry Pi + GPS, 실시간 위치/경로 안내  
   ↳ 레포: <https://github.com/lolwngud/Capstone>
 - **UR5e 로봇 팔 기반 프린트 공정 자동화** — 커스텀 마운트 설계 & 셋업, 공정 스텝 자동화
 - **CV 분류/세그멘테이션 미니 프로젝트** — CNN 기반 이미지 처리 실습
