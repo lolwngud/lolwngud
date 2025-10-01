@@ -38,12 +38,13 @@
 ## 📌 Highlighted Projects
 > 추후 GitHub ‘Pinned’에 고정 예정. 지금은 간단 소개만.
 
-- **프로그래머스 C 풀이 기록** — 문제 풀이/회고, 빌드 태스크 자동화  
-  ↳ 레포: <https://github.com/lolwngud/Programmers-C>
-- **UR5e 로봇 팔 기반 프린트 공정 자동화** — 커스텀 마운트 설계 & 셋업, 공정 스텝 자동화
 - **시각장애인 내비게이션(졸업프로젝트)** — Raspberry Pi + GPS, 실시간 위치/경로 안내
+  ↳ 레포: <https://github.com/lolwngud/Capstone>
+- **UR5e 로봇 팔 기반 프린트 공정 자동화** — 커스텀 마운트 설계 & 셋업, 공정 스텝 자동화
 - **CV 분류/세그멘테이션 미니 프로젝트** — CNN 기반 이미지 처리 실습
 - **32-bit MIPS(학부 과제)** — Logisim으로 설계/테스트
+- **프로그래머스 C 풀이 기록** — 문제 풀이/회고, 빌드 태스크 자동화  
+  ↳ 레포: <https://github.com/lolwngud/Programmers-C>
 
 ---
 
