@@ -1,72 +1,242 @@
-<!-- 프로필 상단(Profile README) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded-Software-blue" alt="Embedded Software">
-  <img src="https://img.shields.io/badge/C-Language-informational" alt="C Language">
-  <img src="https://img.shields.io/badge/Linux-CLI-success" alt="Linux">
-</p>
+# Juhyeong Park
 
-<h1 align="center">Juhyeong Park (박주형)</h1>
-<p align="center"><b>Embedded Software Engineer in progress</b> · C · Linux · Git · Robotics</p>
+### Semiconductor Equipment Engineer | Electrical & Electronics | Automation & Data
+
+Electronic Engineering background with experience across software, embedded systems, robotics, and defense IPS.
+
+Starting my career in semiconductor equipment engineering at AE Korea in October 2026, I am building deeper expertise in equipment systems, electrical engineering, automation, troubleshooting, and data-driven engineering.
 
 ---
 
-## 👋 About Me
-- 한양대학교 ERICA 전자공학부 **졸업**  
-- 42 Seoul 부트캠프에서 **C 언어** 집중 학습  
-- **정보처리기사** 자격 및 **Linux** 관련 교육 이수  
-- PBL(Project-Based Learning)로 **협업·실무 중심 문제 해결** 경험 다수
+## About Me
 
-> 내가 지향하는 키워드: **효율성 · 적응력 · 협업**
+* B.S. in Electronic Engineering, Hanyang University ERICA
+* Approximately 9 months of experience in defense-sector IPS
+* Joining AE Korea as a Semiconductor Equipment Engineer in October 2026
+* Completed 42 Seoul with a focus on C programming and problem solving
+* Experience with embedded systems, Linux, robotics, machine learning, and data analysis
+* Certified Engineer Information Processing (정보처리기사)
 
----
+My background started with electronics and software, and I am now expanding that foundation into semiconductor equipment engineering.
 
-## 🧩 What I Do
-- **Embedded SW**: C, MCU/보드 bring-up, 기본 드라이버(입출력, 타이머 등)
-- **Linux**: 빌드·툴체인 사용, 쉘 스크립팅, Git 워크플로
-- **Algorithms**: C로 문제 해결 패턴 정리 및 습관화
-- **Robotics**: 작업공정 자동화, 간단한 그리퍼/액추에이션 제어, 3d Printing
+I am particularly interested in understanding how hardware, electrical systems, software, automation, and data interact inside complex equipment.
 
 ---
 
-## 🛠 Tech Stack
-- **Language**: C (± C++), Python(툴링)
-- **OS & Tools**: Linux, VS Code, Git/GitHub, PyCharm
-- **HW/Interface**: Raspberry Pi, Arduino, 기본 센서/모듈
+## Current Focus
+
+### Semiconductor Equipment Engineering
+
+Building practical knowledge in:
+
+* Semiconductor manufacturing equipment
+* Electrical and electronic systems
+* Equipment troubleshooting
+* Sensors and control systems
+* Equipment automation
+* Engineering data analysis
+
+### Electrical Engineering
+
+Preparing for the Korean Electrical Engineer certification (전기기사), starting in October 2026.
+
+Goal:
+
+`2027 First Written Examination`
+
+Main study areas include:
+
+* Circuit theory
+* Electrical machines
+* Power engineering
+* Electrical equipment
+* Control engineering
+* Electrical regulations
+
+### Engineering Automation & Data
+
+Using programming as an engineering tool rather than only as a software development skill.
+
+Areas I plan to explore:
+
+* Equipment log analysis with Python
+* Engineering data visualization
+* Repetitive task automation
+* Test data processing
+* Simple diagnostic tools
+* Engineering calculation utilities
+
+### Technical English
+
+Improving practical English for working in a global engineering environment.
+
+Focus areas:
+
+* Technical documentation
+* Equipment manuals
+* Engineering communication
+* Troubleshooting discussions
+* Technical presentations
 
 ---
 
-## 📌 Highlighted Projects
-> 추후 GitHub ‘Pinned’에 고정 예정. 지금은 간단 소개만.
+## Engineering Background
 
-- **시각장애인 내비게이션(졸업프로젝트)** — Raspberry Pi + GPS, 실시간 위치/경로 안내  
-  ↳ 레포: <https://github.com/lolwngud/Capstone>
-- **UR5e 로봇 팔 기반 프린트 공정 자동화** — 커스텀 마운트 설계 & 셋업, 공정 스텝 자동화
-- **CV 분류/세그멘테이션 미니 프로젝트** — CNN 기반 이미지 처리 실습
-- **32-bit MIPS(학부 과제)** — Logisim으로 설계/테스트
-- **프로그래머스 C 풀이 기록** — 문제 풀이/회고, 빌드 태스크 자동화  
-  ↳ 레포: <https://github.com/lolwngud/Programmers-C>
+### Defense IPS
+
+Worked for approximately 9 months in defense-sector Integrated Product Support (IPS).
+
+This experience strengthened my understanding of:
+
+* Technical documentation
+* Equipment lifecycle support
+* System-level thinking
+* Reliability and maintainability concepts
+* Structured engineering processes
+
+### Embedded & Software
+
+My earlier engineering experience includes:
+
+* C programming
+* Python
+* Linux
+* Raspberry Pi
+* Arduino
+* Socket programming
+* Multithreading
+* Git / GitHub
+
+These skills remain an important foundation for equipment automation and engineering tools.
+
+### Robotics
+
+Participated in a printer assembly automation project using a UR5e collaborative robot.
+
+Worked on:
+
+* Gripper and mount design
+* Arduino motor control
+* Sensor tuning
+* Robot operation scenarios
+* On-site troubleshooting
+
+### Navigation System
+
+Developed a Raspberry Pi-based navigation system for visually impaired users.
+
+Key work:
+
+* GPS-based real-time positioning
+* Modified Dijkstra path guidance
+* Multithreaded GPS and navigation processing
+* Voice interface integration
+* Positioning error improvement from approximately 10 m to 3 m
+
+### Machine Learning & Data Analysis
+
+Worked on projects involving:
+
+* Image classification
+* Semantic segmentation
+* PyTorch
+* TensorFlow
+* Pandas
+* Data visualization
+* Statistical analysis
+
+These experiences helped build a data-driven approach to engineering problems.
 
 ---
 
-## 🔭 Now
-- C로 **매일/격일 알고리즘** 풀이 및 리팩터링 습관화  
-- Linux/임베디드 **툴체인·빌드** 루틴 다듬기  
-- 간단한 **드라이버·테스트 유틸** 템플릿 공용화
+## Tech Stack
+
+### Programming
+
+`C` `Python` `C++`
+
+### Engineering & Embedded
+
+`Linux` `Raspberry Pi` `Arduino` `Embedded Systems`
+
+### Development
+
+`Git` `GitHub` `VS Code` `GCC` `Makefile`
+
+### Data & ML
+
+`Pandas` `NumPy` `Matplotlib` `PyTorch` `TensorFlow`
+
+### Engineering Interests
+
+`Semiconductor Equipment` `Electrical Engineering` `Automation` `Troubleshooting` `Engineering Data`
 
 ---
 
-## 🗂 Repo Guide
-- `Programmers-C`: 알고리즘 풀이/정리
-- 'Capstone' : 시각장애인 내비게이션(졸업과제) 프로젝트
-- 앞으로 올릴 프로젝트: 로봇 활용 프린터조립 공정 자동화 프로젝트/ 머신러닝 프로젝트/ 데이터 분석 프로젝트/ 실습 템플릿 등
+## Projects
 
+My repositories include projects from different stages of my engineering journey.
+
+### Current Direction
+
+Future projects will increasingly focus on:
+
+* Semiconductor equipment engineering
+* Electrical engineering
+* Engineering automation
+* Equipment data analysis
+* Troubleshooting tools
+* Engineering utilities
+
+### Previous Work
+
+Previous repositories remain as a record of my technical foundation in:
+
+* C programming
+* Embedded systems
+* Robotics
+* Machine learning
+* Data analysis
+* Algorithm problem solving
+
+These projects represent the software and electronics background that I am carrying into semiconductor equipment engineering.
 
 ---
 
-## 📫 Contact 
-- 이메일: `juhy.dev@gmail.com`
+## Engineering Roadmap
+
+2026
+
+`Defense IPS → Semiconductor Equipment Engineering`
+
+2026.10 ~
+
+`AE Korea · Semiconductor Equipment Engineer`
+
+2026.10 ~
+
+`Electrical Engineer Certification Preparation`
+
+2027
+
+`Electrical Engineer Written Examination`
+
+Long Term
+
+`Equipment Engineering + Electrical Systems + Automation + Data`
 
 ---
 
-### 🙌 방문해줘서 고마워요
-배움-기록-공유를 즐깁니다. 새로운 협업과 피드백을 항상 열어두고 있어요.
+## GitHub
+
+This GitHub is a record of my engineering development.
+
+Earlier repositories document my software and embedded background.
+
+Future repositories will focus increasingly on practical engineering projects related to semiconductor equipment, electrical systems, automation, troubleshooting, and engineering data analysis.
+
+---
+
+## Contact
+
+GitHub: [lolwngud](https://github.com/lolwngud)
